@@ -4,6 +4,8 @@
 
 **Created by Frances V. Perez, Esq.**
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/francesv17/immigration-case-triage-assistant/blob/main/Immigration_Case_Triage_AI_Workflow.ipynb)
+
 ## Overview
 
 The Immigration Case Triage Assistant is an experimental legal-engineering prototype exploring how generative AI can support the initial organization and triage of immigration client intake information while preserving attorney judgment and human review.
